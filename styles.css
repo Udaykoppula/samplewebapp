@@ -17,6 +17,7 @@ html, body {
 }
 
 .header {
+    background-color: aliceblue;
     display: flex;
     flex-direction: row;
 }
